@@ -1,0 +1,12 @@
+#etc-form-container {
+	background: #06f;
+	color: #fff;
+	margin: 2% 2% 2% 1%;
+	padding: 1%;
+	border-radius: 5px;
+	border: 1px solid #fff;
+	text-align: center;
+}
+#etc-form-container h1 {
+	color: #fff;
+}
