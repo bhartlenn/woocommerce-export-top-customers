@@ -1,7 +1,7 @@
 <?php
 /**
 * Plugin Name: Export Top Customers
-* Description: Queries all customer on your site, and exports a csv file of the chosen number of customers, organized by the total amount they have spent
+* Description: Queries all customer on your site, and exports a csv file of the chosen number of customers, organized by the total amount they have spent 
 * Version: 1.0.0
 * Author: Ben HartLenn
 * License: GPLv3
